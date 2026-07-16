@@ -45,7 +45,7 @@ To build practical cybersecurity projects, strengthen my Python programming skil
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/gauri426-beep
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *https://www.linkedin.com/in/gaurikaur426?utm_source=share_via&utm_content=profile&utm_medium=member_ios*
 
 ---
 
