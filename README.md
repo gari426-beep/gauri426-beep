@@ -22,6 +22,12 @@
 - SHA-256 Hashing
 - Basic Cryptography
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Basics-green?style=for-the-badge)
+
 ---
 
 ## 📂 Featured Projects
@@ -39,6 +45,18 @@
 ## 🎯 Current Goal
 
 To build practical cybersecurity projects, strengthen my Python programming skills, and continue learning about information security.
+
+---
+
+## 📊 GitHub Stats
+
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight)
 
 ---
 
