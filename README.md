@@ -48,17 +48,6 @@ To build practical cybersecurity projects, strengthen my Python programming skil
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/gauri426-beep
