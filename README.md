@@ -50,13 +50,12 @@ To build practical cybersecurity projects, strengthen my Python programming skil
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight
 
 ---
 
