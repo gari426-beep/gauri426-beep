@@ -16,21 +16,21 @@
 
 ## 📊 GitHub Statistics
 
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gari426-beep&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gari426-beep&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gauri426-beep&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=gari426-beep&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gauri426-beep&theme=tokyonight&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gari426-beep&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
@@ -140,7 +140,7 @@
 
 ## 📫 Connect With Me
 
-💻 **GitHub:** https://github.com/gauri426-beep
+💻 **GitHub:**  https://github.com/gari426-beep
 
 💼 **LinkedIn:** https://www.linkedin.com/in/gaurikaur426
 
