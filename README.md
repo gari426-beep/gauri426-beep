@@ -1,58 +1,129 @@
 # Hi there, I'm Gauri! 👋
 
-## About Me
+## 👩‍💻 About Me
 
 🎓 BCA Student
 
-🛡️ Learning Cybersecurity and Python
+🔐 Aspiring Cybersecurity Analyst
 
-💻 Building hands-on cybersecurity projects
+🐍 Python Developer
 
-🌱 Currently improving my skills in networking, cryptography, and security automation.
+🌐 Passionate about Cybersecurity, Networking, Linux, and Security Automation
+
+🚀 Building practical cybersecurity tools and Python projects to strengthen my hands-on skills and prepare for cybersecurity internships.
 
 ---
 
 ## 🚀 Technologies & Tools
 
+### 💻 Programming
 - Python
+
+### 🛡️ Cybersecurity
+- Networking
+- Packet Analysis
+- Password Security
+- Cryptography
+- Web Reconnaissance
+- OSINT Basics
+
+### 🛠️ Tools
 - Git & GitHub
-- Networking Basics
-- File Handling
-- Socket Programming
-- SHA-256 Hashing
-- Basic Cryptography
+- VS Code
+- Kali Linux
+- Wireshark
+- Nmap
+
+### 📚 Python Libraries
+- requests
+- socket
+- hashlib
+- scapy
+- os
+- re
+
+---
+
+## 🏆 Cybersecurity Projects
+
+### 🔐 Cryptography & Password Security
+- 🔑 Password Generator
+- 💪 Password Strength Checker
+- 🔐 Password Manager
+- 🔒 File Encryption Tool
+- 🛡️ File Integrity Checker
+- 🚨 Password Leak Checker
+- 🔑 Caesar Cipher
+
+### 🌐 Networking & Web Security
+- 🌍 Port Scanner
+- 📡 Network Scanner
+- 🌐 DNS Lookup Tool
+- 📄 Website Header Scanner
+- 📥 Packet Sniffer
+
+### 🔍 Reconnaissance (OSINT)
+- 📂 Directory Brute Forcer
+- 🌎 Subdomain Finder
+
+### 📊 Analysis & Automation
+- 📄 Log Analyzer
+- 🔍 Hash Generator & Verifier
+
+---
+
+## 📈 Portfolio Highlights
+
+- 🔐 20+ Cybersecurity Projects
+- 🐍 Python Developer
+- 🌐 Networking Projects
+- 📡 Packet Analysis
+- 🔒 Cryptography
+- 📂 Security Automation
+- 🚀 Continuously Learning
+
+---
+
+## 🌱 Currently Learning
+
+- Network Security
+- API Security
+- Linux
+- Ethical Hacking
+- Security Automation
+- Python for Cybersecurity
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build 30+ Cybersecurity Projects
+- 🛡️ Strengthen Python & Cybersecurity Skills
+- 📜 Earn Cybersecurity Certifications
+- 💼 Secure a Cybersecurity Internship
+- 🌍 Contribute to Open Source Projects
+
+---
+
+## 🏅 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-Basics-green?style=for-the-badge)
-
----
-
-## 📂 Featured Projects
-
-- 🔑 Password Generator
-- 💪 Password Strength Checker
-- 🌐 Port Scanner
-- 🛡️ File Integrity Checker
-- 📄 Log Analyzer
-- 🔒 Caesar Cipher
-- 🔑 Password Manager
-
----
-
-## 🎯 Current Goal
-
-To build practical cybersecurity projects, strengthen my Python programming skills, and continue learning about information security.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-success?style=for-the-badge)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/gari426-beep
-- LinkedIn: *https://www.linkedin.com/in/gaurikaur426?utm_source=share_via&utm_content=profile&utm_medium=member_ios*
+💻 **GitHub:** https://github.com/gauri426-beep
+
+💼 **LinkedIn:** https://www.linkedin.com/in/gaurikaur426
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! I'm always learning, building, and improving my cybersecurity and Python skills.
