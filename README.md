@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Statistics
 
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight)
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight)
 
@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gauri426-beep&theme=tokyonight&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gauri426-beep&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
