@@ -14,6 +14,26 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri426-beep&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri426-beep&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gauri426-beep&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gauri426-beep&theme=tokyonight&margin-w=15)
+
+---
+
 ## 🚀 Technologies & Tools
 
 ### 💻 Programming
