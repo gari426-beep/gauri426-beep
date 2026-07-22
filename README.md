@@ -22,12 +22,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gari426-beep&theme=tokyonight)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gari426-beep&theme=tokyonight&no-frame=true&row=1)
